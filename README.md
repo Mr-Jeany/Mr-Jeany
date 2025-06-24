@@ -1,5 +1,5 @@
 ## guten tag, ich bin jeany
-\> Current project: [Magus](https://github.com/Mr-Jeany/MagusMainSite) <br>
+\> Current project: nothing idk <br>
 \> Languages: Russian, English <br>
 \> Coding on: Python <br>
 glhf, my dear friends <br><br>
