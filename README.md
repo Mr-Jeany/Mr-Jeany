@@ -1,5 +1,6 @@
-## guten tag, ich bin jeany
-\> Current project: nothing idk <br>
+guten tag, ich bin jeany
+==============
+\> Current projects: nothing (or they are closed) <br>
 \> Languages: Russian, English <br>
 \> Coding on: Python <br>
 glhf, my dear friends <br><br>
