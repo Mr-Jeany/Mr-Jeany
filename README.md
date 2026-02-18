@@ -13,4 +13,4 @@ guten tag, ich bin jeany
 ---
 
 You can contact me either in Telegram: [@iamjeany](https://t.me/iamjeany) <br>
-Or on email: il.karachev@gmail.com
+Or by email: il.karachev@gmail.com
