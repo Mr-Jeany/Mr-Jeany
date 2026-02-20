@@ -1,6 +1,6 @@
 guten tag, ich bin jeany
 ==============
-\> Current projects: nothing (or they are closed) <br>
+\> Current projects: nothing (or they are private) <br>
 \> Languages: Russian, English <br>
 \> Coding on: Python (mainly FastAPI), learning Kotlin <br>
 \> Main spheres: back-end, ~~data analysis~~ <br>
@@ -12,5 +12,6 @@ guten tag, ich bin jeany
 
 ---
 
+Some more info about me (RU): [jeany.pw](https://jeany.pw)
 You can contact me either in Telegram: [@iamjeany](https://t.me/iamjeany) <br>
 Or by email: il.karachev@gmail.com
