@@ -12,6 +12,5 @@ guten tag, ich bin jeany
 
 ---
 
-Some more info about me (RU): [jeany.pw](https://jeany.pw) <br>
 You can contact me either in Telegram: [@iamjeany](https://t.me/iamjeany) <br>
 Or by email: il.karachev@gmail.com
