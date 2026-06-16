@@ -1,6 +1,6 @@
 guten tag, ich bin jeany
 ==============
-\> Current projects: nothing (or they are private) <br>
+\> Current projects: working on something for board game "Twilight Imperium 4" <br>
 \> Languages: Russian, English <br>
 \> Coding on: Python (mainly FastAPI), learning Kotlin <br>
 \> Main spheres: back-end, ~~data analysis~~ <br>
